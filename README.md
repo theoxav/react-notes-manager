@@ -1,5 +1,9 @@
 # Notes Application
 
+<div align="center" style="margin-bottom: 10px;">
+  <img src="./src/assets/demo//home.png" alt="Home" style="margin: 10px;" />
+</div>
+
 This is a simple notes application where users can add, modify, and delete notes.
 
 ## Technology Stack
